@@ -1,0 +1,32 @@
+C:\UnZ\DataStructures - Task Solver\DataStructures - Task Solver\bin\Debug\net8.0-windows\DataStructures - Task Solver.exe
+C:\UnZ\DataStructures - Task Solver\DataStructures - Task Solver\bin\Debug\net8.0-windows\DataStructures - Task Solver.deps.json
+C:\UnZ\DataStructures - Task Solver\DataStructures - Task Solver\bin\Debug\net8.0-windows\DataStructures - Task Solver.runtimeconfig.json
+C:\UnZ\DataStructures - Task Solver\DataStructures - Task Solver\bin\Debug\net8.0-windows\DataStructures - Task Solver.dll
+C:\UnZ\DataStructures - Task Solver\DataStructures - Task Solver\bin\Debug\net8.0-windows\DataStructures - Task Solver.pdb
+C:\UnZ\DataStructures - Task Solver\DataStructures - Task Solver\obj\Debug\net8.0-windows\DataStructures___Task_Solver.Main_Window.resources
+C:\UnZ\DataStructures - Task Solver\DataStructures - Task Solver\obj\Debug\net8.0-windows\DataStructures - Task Solver.csproj.GenerateResource.cache
+C:\UnZ\DataStructures - Task Solver\DataStructures - Task Solver\obj\Debug\net8.0-windows\DataStructures - Task Solver.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnZ\DataStructures - Task Solver\DataStructures - Task Solver\obj\Debug\net8.0-windows\DataStructures - Task Solver.AssemblyInfoInputs.cache
+C:\UnZ\DataStructures - Task Solver\DataStructures - Task Solver\obj\Debug\net8.0-windows\DataStructures - Task Solver.AssemblyInfo.cs
+C:\UnZ\DataStructures - Task Solver\DataStructures - Task Solver\obj\Debug\net8.0-windows\DataStructures - Task Solver.csproj.CoreCompileInputs.cache
+C:\UnZ\DataStructures - Task Solver\DataStructures - Task Solver\obj\Debug\net8.0-windows\DataStructures - Task Solver.dll
+C:\UnZ\DataStructures - Task Solver\DataStructures - Task Solver\obj\Debug\net8.0-windows\refint\DataStructures - Task Solver.dll
+C:\UnZ\DataStructures - Task Solver\DataStructures - Task Solver\obj\Debug\net8.0-windows\DataStructures - Task Solver.pdb
+C:\UnZ\DataStructures - Task Solver\DataStructures - Task Solver\obj\Debug\net8.0-windows\DataStructures - Task Solver.genruntimeconfig.cache
+C:\UnZ\DataStructures - Task Solver\DataStructures - Task Solver\obj\Debug\net8.0-windows\ref\DataStructures - Task Solver.dll
+D:\DataStructures - Task Solver\DataStructures - Task Solver\bin\Debug\net8.0-windows\DataStructures - Task Solver.exe
+D:\DataStructures - Task Solver\DataStructures - Task Solver\bin\Debug\net8.0-windows\DataStructures - Task Solver.deps.json
+D:\DataStructures - Task Solver\DataStructures - Task Solver\bin\Debug\net8.0-windows\DataStructures - Task Solver.runtimeconfig.json
+D:\DataStructures - Task Solver\DataStructures - Task Solver\bin\Debug\net8.0-windows\DataStructures - Task Solver.dll
+D:\DataStructures - Task Solver\DataStructures - Task Solver\bin\Debug\net8.0-windows\DataStructures - Task Solver.pdb
+D:\DataStructures - Task Solver\DataStructures - Task Solver\obj\Debug\net8.0-windows\DataStructures___Task_Solver.Main_Window.resources
+D:\DataStructures - Task Solver\DataStructures - Task Solver\obj\Debug\net8.0-windows\DataStructures - Task Solver.csproj.GenerateResource.cache
+D:\DataStructures - Task Solver\DataStructures - Task Solver\obj\Debug\net8.0-windows\DataStructures - Task Solver.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataStructures - Task Solver\DataStructures - Task Solver\obj\Debug\net8.0-windows\DataStructures - Task Solver.AssemblyInfoInputs.cache
+D:\DataStructures - Task Solver\DataStructures - Task Solver\obj\Debug\net8.0-windows\DataStructures - Task Solver.AssemblyInfo.cs
+D:\DataStructures - Task Solver\DataStructures - Task Solver\obj\Debug\net8.0-windows\DataStructures - Task Solver.csproj.CoreCompileInputs.cache
+D:\DataStructures - Task Solver\DataStructures - Task Solver\obj\Debug\net8.0-windows\DataStructures - Task Solver.dll
+D:\DataStructures - Task Solver\DataStructures - Task Solver\obj\Debug\net8.0-windows\refint\DataStructures - Task Solver.dll
+D:\DataStructures - Task Solver\DataStructures - Task Solver\obj\Debug\net8.0-windows\DataStructures - Task Solver.pdb
+D:\DataStructures - Task Solver\DataStructures - Task Solver\obj\Debug\net8.0-windows\DataStructures - Task Solver.genruntimeconfig.cache
+D:\DataStructures - Task Solver\DataStructures - Task Solver\obj\Debug\net8.0-windows\ref\DataStructures - Task Solver.dll
